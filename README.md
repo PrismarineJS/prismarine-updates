@@ -6,6 +6,7 @@ Summary of work being done in PrismarineJS modules and user modules, useful for 
 
 * `mcpackets` is released for pc edition, and bedrock support is soon
 * `bedrock-protocol` is actively in progress again, might release soon for most recent version
+* we are now trying to do the [`gdmc-challenge-2021`](https://github.com/PrismarineJS/gdmc-challenge-2021)
 
 ## November Update (11/2020)
 
